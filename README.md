@@ -1,2 +1,3 @@
 # Paredla
 Paredla
+str () 
